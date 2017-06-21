@@ -7,4 +7,4 @@ python calculate_bleu_score.py candidate.txt reference.txt
 
 candidate.txt is the machine translated text file.
 
-reference.txt is the reference model. Mostly the human translated text file.
+reference.txt is the reference text. Mostly the human translated text file.
